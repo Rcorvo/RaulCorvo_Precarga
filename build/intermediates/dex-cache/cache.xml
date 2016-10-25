@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a34d69145705c3a1fc9e22068eb936d26b3ee722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7eef39004cae4dd4a7630a75a173e4bdb5dcf2e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a7f9c0cc6f8595447eaa805807b03cbea259ec0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1c2ecc3b2ab65698e474800b05e6bb5740e566d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_87d9b368bc54b441c1315ea5413b7b7de422c2ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e5093a17ae57b975eb0c527bb7badb4a09b412e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff2483feecbd213f4f975048a3955539694f5bbf">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_389cb9cc28c46cb232aafd2c8055d71e36cb02e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8bb0a4897077e99b6cfef30f985cf283888da46b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_778f027fec9529d5bad10a9f3ad768d3ba55e1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_840127e444a4e42087321940d58beefc2eb2623a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5632e5d54e1a8c80ec2ba88152ae1c168676118d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_54b827b49d1b9cc9fcb317089cb64d20f239ef05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="792d03b68b87ecc87176eceb3fd8e149f6194885">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e89abf90a30b64e541077670278a5560eae1f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e8e9aa31532f96b0aae13fc61b507b36b56c0eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_74a6f0068339a1255a664af71b916a666b13aa22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f031c2b03a6bccad030e65866a940a2855156a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\Busqyedaconprecarga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f789125596568138ddb0e0b51d58a492f446ce2b\classes.dex" />
+    </item>
+
+</items>

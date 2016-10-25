@@ -1,0 +1,7 @@
+#Tue Oct 25 12:24:07 CEST 2016
+base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\Busqyedaconprecarga\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e89abf90a30b64e541077670278a5560eae1f75
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\Busqyedaconprecarga\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_389cb9cc28c46cb232aafd2c8055d71e36cb02e0\\classes.dex
+base.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\Busqyedaconprecarga\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_389cb9cc28c46cb232aafd2c8055d71e36cb02e0
+file.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\Busqyedaconprecarga\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e89abf90a30b64e541077670278a5560eae1f75\\classes.dex
